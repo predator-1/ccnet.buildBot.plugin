@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ccnet.buildBot.plugin
 {
-    public class Class1
+    public class BuildBot
     {
     }
 }
